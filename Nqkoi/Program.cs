@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DimiturMoP
+namespace Nqkoi
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Dimitur2
+            //Nqkoi
         }
     }
 }

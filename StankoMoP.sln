@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StankoMoP", "StankoMoP\Stan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DimiturMoP", "DimiturMoP\DimiturMoP.csproj", "{AF964426-56A4-4539-88AE-D64DD611178E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nqkoi", "Nqkoi\Nqkoi.csproj", "{DB72F233-51EF-4C19-854C-ED854CCD56B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AF964426-56A4-4539-88AE-D64DD611178E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF964426-56A4-4539-88AE-D64DD611178E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF964426-56A4-4539-88AE-D64DD611178E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB72F233-51EF-4C19-854C-ED854CCD56B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB72F233-51EF-4C19-854C-ED854CCD56B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB72F233-51EF-4C19-854C-ED854CCD56B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB72F233-51EF-4C19-854C-ED854CCD56B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
