@@ -10,7 +10,7 @@ namespace StankoMoP
     {
         static void Main(string[] args)
         {
-            //Stanko
+            //Stanko - test comment
         }
     }
 }
